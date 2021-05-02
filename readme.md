@@ -1,1 +1,1 @@
-### Base Minimum Bash Commands for Backend Developers
+### Bare Minimum Bash Commands for Backend Developers
